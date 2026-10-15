@@ -31,14 +31,16 @@ function readApiKey() {
   return m[1].trim();
 }
 
-// konuşma cümlelerini oyunun kodundan çıkarır: INFO ve WASH_GUIDE -> anlatıcı, diğerleri -> çocuk
+// konuşma cümlelerini oyunun kodundan çıkarır: INFO ve *_GUIDE -> anlatıcı, diğerleri -> çocuk
 function extractLines(html) {
   const js = html.split('<script>').pop().split('</script>')[0];
   const block = (start, end) => {
     const i = js.indexOf(start);
     return i < 0 ? '' : js.slice(i, js.indexOf(end, i));
   };
-  const narratorBlocks = [block('const INFO = {', '};'), block('const WASH_GUIDE = [', '];')];
+  // INFO kartları ve yakın çekim anlatımları (WASH_GUIDE, FACE_GUIDE, BRUSH_GUIDE ...)
+  const guides = [...js.matchAll(/const \w+_GUIDE = \[/g)].map((m) => block(m[0], '];'));
+  const narratorBlocks = [block('const INFO = {', '};'), ...guides];
   const literals = (src) => [...src.matchAll(/'((?:[^'\\\n]|\\.)*)'/g)].map((m) => m[1]);
   const isSpeech = (s) => /\s/.test(s) && /[.!?…]$/.test(voiceKey(s)) && !/[#<>{}$=()]/.test(s);
   const narrator = [...new Set(narratorBlocks.flatMap(literals).filter(isSpeech).map(voiceKey))];

@@ -128,32 +128,14 @@
   {
     "role": "kid",
     "voice": "Jessica",
-    "text": "Şimdi de bol suyla duruluyorum.",
-    "file": "sesler/kid-0a9bb92f3a97.mp3"
-  },
-  {
-    "role": "kid",
-    "voice": "Jessica",
     "text": "Şimdi tamamen uyandım!",
     "file": "sesler/kid-df5f10ca895b.mp3"
   },
   {
     "role": "kid",
     "voice": "Jessica",
-    "text": "Fırçala, fırçala… Yukarı-aşağı, sağa-sola!",
-    "file": "sesler/kid-b5f938efd012.mp3"
-  },
-  {
-    "role": "kid",
-    "voice": "Jessica",
-    "text": "Ağzımı suyla çalkalıyorum…",
-    "file": "sesler/kid-4adafe2fbccc.mp3"
-  },
-  {
-    "role": "kid",
-    "voice": "Jessica",
-    "text": "Pırıl pırıl dişler!",
-    "file": "sesler/kid-f7edeebfcdce.mp3"
+    "text": "Diş fırçamı aldım. Haydi dişlerimi fırçalayalım!",
+    "file": "sesler/kid-20cec26e453a.mp3"
   },
   {
     "role": "kid",
@@ -230,14 +212,14 @@
   {
     "role": "narrator",
     "voice": "Alice",
-    "text": "Ellerimizi sabunla en az 20 saniye yıkamalıyız. Parmak aralarını ve tırnak diplerini unutma!",
-    "file": "sesler/narrator-5444db2437e7.mp3"
+    "text": "Ellerimizi sabunla en az 20 saniye yıkamalıyız. Yüzümüzü de her sabah ve akşam su ve sabunla yıkayıp kendi havlumuzla kurulamalıyız.",
+    "file": "sesler/narrator-7b6d938acaad.mp3"
   },
   {
     "role": "narrator",
     "voice": "Alice",
-    "text": "Dişlerimizi günde en az 2 kez, 2 dakika boyunca fırçalamalıyız. Diş fırçamızı kimseyle paylaşmayız.",
-    "file": "sesler/narrator-cf17d21b45d9.mp3"
+    "text": "Dişlerimizi günde en az iki kez, iki üç dakika boyunca fırçalamalıyız. Fırçamızı kimseyle paylaşmayız ve en geç altı ayda bir yenisiyle değiştiririz.",
+    "file": "sesler/narrator-ee2c77040e46.mp3"
   },
   {
     "role": "narrator",
@@ -298,5 +280,83 @@
     "voice": "Alice",
     "text": "Şimdi bol suyla köpükleri durulayalım. İşte mikroplar gitti, ellerimiz tertemiz!",
     "file": "sesler/narrator-3f1eb52ff5ed.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
+    "text": "Ellerimiz tertemiz oldu. Şimdi avucumuza su alıp yüzümüzü ıslatalım.",
+    "file": "sesler/narrator-3aad703976e2.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
+    "text": "Sabunu avucumuzda köpürtelim. Gözlerimizi kapatalım ki sabun gözümüze kaçmasın.",
+    "file": "sesler/narrator-a4bf537f41eb.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
+    "text": "Alnımızı, yanaklarımızı, burnumuzu ve çenemizi küçük daireler çizerek nazikçe ovalayalım.",
+    "file": "sesler/narrator-1c68b70b2b40.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
+    "text": "Kulaklarımızın arkasını da unutmayalım! Ama kulağımızın içine hiçbir şey sokmayalım.",
+    "file": "sesler/narrator-df43efd88668.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
+    "text": "Boynumuzu da yukarıdan aşağıya doğru temizleyelim.",
+    "file": "sesler/narrator-048d192bd48e.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
+    "text": "Şimdi bol suyla köpükleri durulayalım.",
+    "file": "sesler/narrator-3afbdcd57933.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
+    "text": "Son olarak kendi temiz havlumuzla yüzümüzü bastırarak kurulayalım.",
+    "file": "sesler/narrator-80fbc5ffe248.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
+    "text": "Diş fırçamıza bezelye tanesi kadar florlu diş macunu koyalım.",
+    "file": "sesler/narrator-1e78db1d66ef.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
+    "text": "Fırçamızı diş etine doğru kırk beş derece eğik tutalım. Dişlerin dış yüzünü küçük daireler çizerek, öndeki dişlerden arkadakilere doğru fırçalayalım.",
+    "file": "sesler/narrator-de49afa1ef30.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
+    "text": "Dişlerimizin iç yüzünü de fırçayı eğik tutup diş etinden ağzımızın içine doğru süpürerek fırçalayalım.",
+    "file": "sesler/narrator-82e98311d2f9.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
+    "text": "Çiğneme yüzeylerini fırçayı düz tutup ileri geri hareket ettirerek temizleyelim.",
+    "file": "sesler/narrator-4851c11df5c7.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
+    "text": "Dilimizi de nazikçe fırçalayalım.",
+    "file": "sesler/narrator-1d1a5946a450.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
+    "text": "Son olarak ağzımızdaki macunu tükürelim. İşte pırıl pırıl dişler!",
+    "file": "sesler/narrator-5f6da939c5fa.mp3"
   }
 ]
