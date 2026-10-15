@@ -1,0 +1,260 @@
+[
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Sanırım önce yatağımı toplamalıyım.",
+    "file": "sesler/kid-7117d1bc0165.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Dur bakalım… Önce yatağımı toplamalıyım!",
+    "file": "sesler/kid-85fac1976083.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Yatağım tertemiz oldu! Şimdi başka bir şey yapmalıyım.",
+    "file": "sesler/kid-6625334d1a4f.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Giyinmeden önce elimi yüzümü yıkamalıyım. Banyoya gideyim!",
+    "file": "sesler/kid-1c37605145e0.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Daha banyoda işim bitmedi!",
+    "file": "sesler/kid-6c2065bca022.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Elimi yüzümü yıkadım bile! Sırada başka bir şey var.",
+    "file": "sesler/kid-6832474e88f0.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Önce aynada kendime bir bakayım.",
+    "file": "sesler/kid-50833bdf0348.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Saçlarım hâlâ dağınık! Tarağımı almalıyım.",
+    "file": "sesler/kid-52aba5aa171f.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Saçım dağınıkken çıkamam!",
+    "file": "sesler/kid-5565aac820d8.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Yatağım zaten toplu.",
+    "file": "sesler/kid-6f54f473dad1.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Banyoda işim bitti. Şimdi giyinme zamanı!",
+    "file": "sesler/kid-92157a304925.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Önce ellerimi ve yüzümü sabunla yıkamalıyım.",
+    "file": "sesler/kid-a30da5a342f4.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Önce dişlerimi fırçalamalıyım.",
+    "file": "sesler/kid-1efa7e375689.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Bunu yaptım bile! Başka ne yapmalıyım?",
+    "file": "sesler/kid-4d72bab6b99e.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Bunu yaptım bile! Saçımı taramalıyım.",
+    "file": "sesler/kid-67d23b4f7306.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Banyoda işim bitti! Odama dönebilirim.",
+    "file": "sesler/kid-72cb127165cb.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Hadi yatağımı toplayalım!",
+    "file": "sesler/kid-cba46cf210a6.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Oh be! Yatağım tertemiz oldu.",
+    "file": "sesler/kid-df82d1a6ad30.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Banyoya geldim! Nereden başlasam?",
+    "file": "sesler/kid-c47d5468d413.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Musluğu açıyorum!",
+    "file": "sesler/kid-b089fcdbb0b0.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Ellerimi ve yüzümü sabunla köpürtüyorum!",
+    "file": "sesler/kid-9c0ccd558dea.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Şimdi de bol suyla duruluyorum.",
+    "file": "sesler/kid-0a9bb92f3a97.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Şimdi tamamen uyandım!",
+    "file": "sesler/kid-df5f10ca895b.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Fırçala, fırçala… Yukarı-aşağı, sağa-sola!",
+    "file": "sesler/kid-b5f938efd012.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Ağzımı suyla çalkalıyorum…",
+    "file": "sesler/kid-4adafe2fbccc.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Pırıl pırıl dişler!",
+    "file": "sesler/kid-f7edeebfcdce.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Dişlerim tertemiz oldu!",
+    "file": "sesler/kid-9cc4921e23f2.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Aaa! Saçlarım darmadağın!",
+    "file": "sesler/kid-5a3ec7ccc48a.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Saçımı taramam lazım!",
+    "file": "sesler/kid-0ed50714e7cb.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Saçımı tarıyorum…",
+    "file": "sesler/kid-4610eb2967cc.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Ne kadar düzgün oldum!",
+    "file": "sesler/kid-ee4785baf4df.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Odama döndüm! Şimdi ne yapmalıyım?",
+    "file": "sesler/kid-efb5adc1af52.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Okul kıyafetlerimi giyiyorum!",
+    "file": "sesler/kid-9afc378c5777.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Tertemiz ve hazırım!",
+    "file": "sesler/kid-fccc0d51d384.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Hmm, şimdi bunu yapmamalıyım.",
+    "file": "sesler/kid-8d0d1b180a98.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Günaydın!",
+    "file": "sesler/kid-884d39b23480.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Günaydın! Haydi güne hazırlanalım!",
+    "file": "sesler/kid-2720c6239044.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
+    "text": "Yatağını her sabah toplamak odanı düzenli tutar ve güne enerjik başlamanı sağlar.",
+    "file": "sesler/narrator-973ea649fe90.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
+    "text": "Ellerimizi sabunla en az 20 saniye yıkamalıyız. Parmak aralarını ve tırnak diplerini unutma!",
+    "file": "sesler/narrator-5444db2437e7.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
+    "text": "Dişlerimizi günde en az 2 kez, 2 dakika boyunca fırçalamalıyız. Diş fırçamızı kimseyle paylaşmayız.",
+    "file": "sesler/narrator-cf17d21b45d9.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
+    "text": "Aynaya bakmak; yüzümüzün ve saçımızın temiz ve düzenli olup olmadığını kontrol etmemizi sağlar.",
+    "file": "sesler/narrator-4475d50137ab.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
+    "text": "Tarak da diş fırçası gibi kişisel bir eşyadır; başkasıyla paylaşılmaz.",
+    "file": "sesler/narrator-6775b4a49d9f.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
+    "text": "Temiz kıyafetler giymek hem sağlığımızı korur hem de kendimizi iyi hissettirir.",
+    "file": "sesler/narrator-cf9f5c116292.mp3"
+  }
+]
