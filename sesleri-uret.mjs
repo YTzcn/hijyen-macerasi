@@ -31,14 +31,19 @@ function readApiKey() {
   return m[1].trim();
 }
 
-// konuşma cümlelerini oyunun kodundan çıkarır: INFO -> anlatıcı, diğerleri -> çocuk
+// konuşma cümlelerini oyunun kodundan çıkarır: INFO ve WASH_GUIDE -> anlatıcı, diğerleri -> çocuk
 function extractLines(html) {
   const js = html.split('<script>').pop().split('</script>')[0];
-  const infoBlock = js.slice(js.indexOf('const INFO = {'), js.indexOf('};', js.indexOf('const INFO = {')));
+  const block = (start, end) => {
+    const i = js.indexOf(start);
+    return i < 0 ? '' : js.slice(i, js.indexOf(end, i));
+  };
+  const narratorBlocks = [block('const INFO = {', '};'), block('const WASH_GUIDE = [', '];')];
   const literals = (src) => [...src.matchAll(/'((?:[^'\\\n]|\\.)*)'/g)].map((m) => m[1]);
   const isSpeech = (s) => /\s/.test(s) && /[.!?…]$/.test(voiceKey(s)) && !/[#<>{}$=()]/.test(s);
-  const narrator = [...new Set(literals(infoBlock).filter(isSpeech).map(voiceKey))];
-  const kid = [...new Set(literals(js.replace(infoBlock, '')).filter(isSpeech).map(voiceKey))]
+  const narrator = [...new Set(narratorBlocks.flatMap(literals).filter(isSpeech).map(voiceKey))];
+  const kidSrc = narratorBlocks.reduce((src, b) => (b ? src.replace(b, '') : src), js);
+  const kid = [...new Set(literals(kidSrc).filter(isSpeech).map(voiceKey))]
     .filter((t) => !narrator.includes(t));
   return { kid, narrator };
 }

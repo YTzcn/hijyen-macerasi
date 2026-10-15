@@ -122,8 +122,8 @@
   {
     "role": "kid",
     "voice": "Jessica",
-    "text": "Ellerimi ve yüzümü sabunla köpürtüyorum!",
-    "file": "sesler/kid-9c0ccd558dea.mp3"
+    "text": "Sıra yüzümde! Yüzümü de sabunla yıkıyorum.",
+    "file": "sesler/kid-318b1cb9fad7.mp3"
   },
   {
     "role": "kid",
@@ -256,5 +256,47 @@
     "voice": "Alice",
     "text": "Temiz kıyafetler giymek hem sağlığımızı korur hem de kendimizi iyi hissettirir.",
     "file": "sesler/narrator-cf9f5c116292.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
+    "text": "Önce ellerimizi suyla güzelce ıslatalım.",
+    "file": "sesler/narrator-cef46c439366.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
+    "text": "Sonra sabunu avucumuza alıp ellerimizi köpürtelim.",
+    "file": "sesler/narrator-3e7ec7373d7b.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
+    "text": "Avuç içlerimizi birbirine sürterek iyice ovalayalım.",
+    "file": "sesler/narrator-b22fbd0a6a32.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
+    "text": "Şimdi parmak uçlarımızı diğer elimizin avucunda daire çizerek ovalayalım. Böylece tırnaklarımızın içi tertemiz olur.",
+    "file": "sesler/narrator-e06c7393d7b9.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
+    "text": "Sonra parmaklarımızı tek tek avucumuzla kavrayıp ovalayalım. Başparmağımızı da unutmayalım!",
+    "file": "sesler/narrator-3ac702088fe2.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
+    "text": "En son bileğimizden başlayıp elimizi aşağı doğru ovalayalım. Diğer elimize de aynısını yapalım.",
+    "file": "sesler/narrator-c735ea0e366e.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
+    "text": "Şimdi bol suyla köpükleri durulayalım. İşte mikroplar gitti, ellerimiz tertemiz!",
+    "file": "sesler/narrator-3f1eb52ff5ed.mp3"
   }
 ]
