@@ -68,6 +68,36 @@
   {
     "role": "kid",
     "voice": "Jessica",
+    "text": "Giyindim bile! Şimdi çantamı almalıyım.",
+    "file": "sesler/kid-528bbdb30a11.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Merdivenden çıkarken trabzana tutunmalıyım!",
+    "file": "sesler/kid-0bd1fe894572.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Ellerim trabzana dokundu, kirli! Önce ellerimi yıkamalıyım.",
+    "file": "sesler/kid-5757b864ea32.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Ellerimi yıkadım bile! Şimdi beslenmemi yiyebilirim.",
+    "file": "sesler/kid-e13bbeda4ff6.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Beslenmemi bitirdim. Şimdi ellerimi yıkamalıyım!",
+    "file": "sesler/kid-02b6b4fb187a.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
     "text": "Önce ellerimi ve yüzümü sabunla yıkamalıyım.",
     "file": "sesler/kid-a30da5a342f4.mp3"
   },
@@ -94,6 +124,12 @@
     "voice": "Jessica",
     "text": "Banyoda işim bitti! Odama dönebilirim.",
     "file": "sesler/kid-72cb127165cb.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Okul çantamı almalıyım.",
+    "file": "sesler/kid-80076c5e3ea6.mp3"
   },
   {
     "role": "kid",
@@ -188,6 +224,66 @@
   {
     "role": "kid",
     "voice": "Jessica",
+    "text": "Çantamı aldım. Haydi okula gidelim!",
+    "file": "sesler/kid-93549ad64d67.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Okula geldim! Sınıfım üst katta.",
+    "file": "sesler/kid-5dd4816c9e2e.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Trabzana tutunarak çıkıyorum.",
+    "file": "sesler/kid-27b6672b14ad.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Sınıfıma geldim! Ama ellerim trabzana dokundu…",
+    "file": "sesler/kid-5455d2fe468e.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Yemekten sonra ellerimi yıkıyorum!",
+    "file": "sesler/kid-5e4e40a77a6f.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Ellerimi sabunla yıkamalıyım!",
+    "file": "sesler/kid-ad6e3c2bd85f.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Ellerim tertemiz! Şimdi beslenme saati.",
+    "file": "sesler/kid-8fda531ebb7a.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Ellerim yine tertemiz! Artık derse hazırım.",
+    "file": "sesler/kid-7e1118b59bed.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Beslenme kabımı açıyorum!",
+    "file": "sesler/kid-b24da25fc9e3.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
+    "text": "Karnım doydu! Yemekten sonra da ellerimi yıkamalıyım.",
+    "file": "sesler/kid-3366a48a1da2.mp3"
+  },
+  {
+    "role": "kid",
+    "voice": "Jessica",
     "text": "Hmm, şimdi bunu yapmamalıyım.",
     "file": "sesler/kid-8d0d1b180a98.mp3"
   },
@@ -242,6 +338,30 @@
   {
     "role": "narrator",
     "voice": "Alice",
+    "text": "Merdivende trabzana tutunmak bizi düşmekten korur. Ama trabzan ve kapı kolu gibi herkesin dokunduğu yerler mikrop taşıyabilir.",
+    "file": "sesler/narrator-f1df9725deb7.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
+    "text": "Ellerimizi yemekten önce ve sonra, tuvaletten sonra ve kirlendiğinde sabunla en az 20 saniye yıkamalıyız.",
+    "file": "sesler/narrator-885031f46823.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
+    "text": "Yemekten sonra ellerimizde yağ, kırıntı ve mikrop kalır. Bu yüzden yemekten sonra da ellerimizi yıkarız.",
+    "file": "sesler/narrator-294319a27d6e.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
+    "text": "Kirli ellerle gözümüze, burnumuza ve ağzımıza dokunmayalım. Temiz eller, sağlıklı bir gün demek!",
+    "file": "sesler/narrator-105aaf703622.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
     "text": "Önce ellerimizi suyla güzelce ıslatalım.",
     "file": "sesler/narrator-cef46c439366.mp3"
   },
@@ -280,6 +400,12 @@
     "voice": "Alice",
     "text": "Şimdi bol suyla köpükleri durulayalım. İşte mikroplar gitti, ellerimiz tertemiz!",
     "file": "sesler/narrator-3f1eb52ff5ed.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
+    "text": "Son olarak ellerimizi temiz bir kâğıt havluyla iyice kurulayalım ve havluyu çöp kutusuna atalım.",
+    "file": "sesler/narrator-13f7258f0569.mp3"
   },
   {
     "role": "narrator",
@@ -358,5 +484,59 @@
     "voice": "Alice",
     "text": "Son olarak ağzımızdaki macunu tükürelim. İşte pırıl pırıl dişler!",
     "file": "sesler/narrator-5f6da939c5fa.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
+    "text": "Merdivenden çıkarken düşmemek için trabzana sıkıca tutunalım.",
+    "file": "sesler/narrator-0445baffe522.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
+    "text": "Ama trabzana pek çok kişi dokunur. Ellerimize gözle göremediğimiz mikroplar bulaşabilir.",
+    "file": "sesler/narrator-210f07f35762.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
+    "text": "Kirli ellerimizle gözümüze, burnumuza ve ağzımıza dokunmayalım!",
+    "file": "sesler/narrator-88b3cd553e67.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
+    "text": "Kapı kolları, sıralar ve ortak eşyalar da böyledir. Bu yüzden ellerimizi ilk fırsatta sabunla yıkayalım.",
+    "file": "sesler/narrator-e1222b647f4e.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
+    "text": "Beslenmemizi yemeden önce sıramıza temiz bir peçete serelim.",
+    "file": "sesler/narrator-b18556f841b9.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
+    "text": "Beslenme kabımızı açalım. Yere düşen yiyecekleri yemeyelim.",
+    "file": "sesler/narrator-ed613e44deba.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
+    "text": "Oturarak yiyelim. Küçük lokmalar alıp iyice çiğneyelim.",
+    "file": "sesler/narrator-be755ff7282c.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
+    "text": "Suyumuzu kendi suluğumuzdan içelim. Suluğumuzu kimseyle paylaşmayalım.",
+    "file": "sesler/narrator-6e998cf84ff0.mp3"
+  },
+  {
+    "role": "narrator",
+    "voice": "Alice",
+    "text": "Bitince çöplerimizi çöp kutusuna atalım ve beslenme kabımızı kapatalım.",
+    "file": "sesler/narrator-4c259d4216bb.mp3"
   }
 ]
